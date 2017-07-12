@@ -4,3 +4,4 @@
 - `CTRL + A,  d` - detach
 - `screen -ls` - list screens
 - `screen -r` - reattach
+- 'CTRL + A, k` - kill
