@@ -1,7 +1,12 @@
 # screen-notes
 
 - `screen`
-- `CTRL + A,  d` - detach
+- `Ctrl + A,  d` - detach
 - `screen -ls` - list screens
 - `screen -r` - reattach
-- 'CTRL + A, k` - kill
+- 'Ctrl + A, k` - kill
+
+## Nesting
+- `Ctrl + a, n` - next
+- `Ctrl + a, p` - previous
+- `Ctrl + a, "` - list screens
